@@ -6,3 +6,5 @@
 <div class="video-desc">With AcclaimIP, we've have a paradoxical goal. Develop a patent data analytics application that is fast and highly capable, yet so easy to use and intuitive that you almost forget you are doing complex patent research. Watch this short video to see some of the key capabilities of the software.</div>
 </div>
 </div>
+
+ddd
