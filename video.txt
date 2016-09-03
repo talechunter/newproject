@@ -1,0 +1,8 @@
+<div class="section">
+<div class="container">
+<h2>Introducing AcclaimIP in 2 Minutes</h2>
+<div class="video-container">
+<!-- copy and paste. Modify height and width if desired. --><iframe class="tscplayer_inline embeddedObject" style="overflow: hidden;" src="http://www.screencast.com/users/CobaltIP/folders/AcclaimIP Training Videos/media/f0bce669-8a9a-4e27-a05f-e02cfbfc2e2c/embed" name="tsc_player" width="100%" height="624" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="video-desc">With AcclaimIP, we've have a paradoxical goal. Develop a patent data analytics application that is fast and highly capable, yet so easy to use and intuitive that you almost forget you are doing complex patent research. Watch this short video to see some of the key capabilities of the software.</div>
+</div>
+</div>
